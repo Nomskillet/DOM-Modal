@@ -80,11 +80,11 @@ body{
     height: 100%;
     z-index: 1;
     background-color: rgba(0,0,0, .2);
-   } */
+   } 
 
    /* Modal Animation Section */
 
-   /* @keyframes animatemodal {
+    @keyframes animatemodal {
       from {
         top: -300px;
         opacity: 0;
@@ -94,4 +94,4 @@ body{
         top: 50%;
         opacity: 1;
       }
-   } */
+   } 
